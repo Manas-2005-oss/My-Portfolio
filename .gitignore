@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node Modules (if added later)
+node_modules/
+
+# Environment Files
+.env
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*mp4
